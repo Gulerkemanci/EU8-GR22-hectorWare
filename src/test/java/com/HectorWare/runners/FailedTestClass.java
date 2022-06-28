@@ -10,5 +10,6 @@ import org.junit.runner.RunWith;
         glue = "com/HectorWare/step_definitions",
         features = "@target/rerun.txt"
 )
+
 public class FailedTestClass {
 }
